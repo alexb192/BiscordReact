@@ -1,5 +1,5 @@
 # BiscordReact
-reactjs sockets, basic web chat application - nothing special
+reactjs sockets, basic web chat application
 
 This is just a simple project I decided to do to make sure i understanded the fundamental concepts of react state, props, classes, hooks, etc...
 Uses sockets to transfer data, log new users, keep track of them and manage them, and send messages between them.
