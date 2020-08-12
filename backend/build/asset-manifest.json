@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ddf51f5c.chunk.css",
+    "main.js": "./static/js/main.e0ace4e9.chunk.js",
+    "main.js.map": "./static/js/main.e0ace4e9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b3fc422b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b3fc422b.js.map",
+    "static/js/2.10b1c348.chunk.js": "./static/js/2.10b1c348.chunk.js",
+    "static/js/2.10b1c348.chunk.js.map": "./static/js/2.10b1c348.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e008e37743b59f99cee7a86010f5cbe6.js": "./precache-manifest.e008e37743b59f99cee7a86010f5cbe6.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.ddf51f5c.chunk.css.map": "./static/css/main.ddf51f5c.chunk.css.map",
+    "static/js/2.10b1c348.chunk.js.LICENSE.txt": "./static/js/2.10b1c348.chunk.js.LICENSE.txt",
+    "static/media/biscord.png": "./static/media/biscord.64b73548.png",
+    "static/media/App.css": "./static/media/discordbackground.589de5f8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3fc422b.js",
+    "static/js/2.10b1c348.chunk.js",
+    "static/css/main.ddf51f5c.chunk.css",
+    "static/js/main.e0ace4e9.chunk.js"
+  ]
+}
